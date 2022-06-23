@@ -1,0 +1,15 @@
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ExemploFactoryMethod.exe
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ExemploFactoryMethod.deps.json
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ExemploFactoryMethod.runtimeconfig.json
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ExemploFactoryMethod.dll
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ref\ExemploFactoryMethod.dll
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\bin\Debug\net6.0\ExemploFactoryMethod.pdb
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.csproj.AssemblyReference.cache
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.AssemblyInfoInputs.cache
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.AssemblyInfo.cs
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.csproj.CoreCompileInputs.cache
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.dll
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ref\ExemploFactoryMethod.dll
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.pdb
+C:\personalProjects\padroes-projeto-examples\Criacionais\ExemploFactoryMethod\obj\Debug\net6.0\ExemploFactoryMethod.genruntimeconfig.cache
